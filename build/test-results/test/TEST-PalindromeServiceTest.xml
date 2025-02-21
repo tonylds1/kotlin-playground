@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-02-21T18:39:06" hostname="codespaces-a99165" time="0.064">
+  <properties/>
+  <testcase name="[1] abac, aba" classname="PalindromeServiceTest" time="0.036"/>
+  <testcase name="[2] tacag, aca" classname="PalindromeServiceTest" time="0.003"/>
+  <testcase name="[3] wegeeksskeegyuwe, geeksskeeg" classname="PalindromeServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
